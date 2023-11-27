@@ -12,7 +12,7 @@
   * cours en mathématiques (collège, lycée)
   * cours en économie (lycée, université)
 
-* Stage chez **Vecturis Railway**.
+* Stage chez [**Vecturis Railway**](https://www.vecturis.com/).
   * Chapitre sur le contexte économique d'une étude sur le corridor Dakar - Bamako:
     * veille stratégique
     * réactualisation de données
