@@ -24,3 +24,5 @@
 * économie géographie des grandes puissances
 
 * sport : courses à pied, plongée scaphandre autonome (*niveau 2*)
+
+![photo profil](https://upload.wikimedia.org/wikipedia/en/c/c5/Donald_Trump_mug_shot.jpg)
